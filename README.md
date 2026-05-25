@@ -36,20 +36,38 @@ I believe technology should:
 
 🔥 Core Infrastructure
 
-| 🚀 Project | 🖥️ Device / Technology | 🎯 Purpose |
-|---|---|---|
-| [🔐Enterprise Home Cybersecurity Lab ](https://github.com/MahalKitaNICK/Zero-Trust-Home-Network-with-pfSense-Ruckus) | Netgate 2100 | pfSense+ Security Gateway |
-| [🔐 Enterprise Home Cybersecurity Lab](https://github.com/MahalKitaNICK/Zero-Trust-Home-Network-with-pfSense-Ruckus) | Ruckus R650 Access Points | Enterprise Wi-Fi Coverage |
-| [🔐 Enterprise Home Cybersecurity Lab](https://github.com/MahalKitaNICK/Zero-Trust-Home-Network-with-pfSense-Ruckus) | Synology DS923+ | NAS Storage / Backups |
-| [🔐 Enterprise Home Cybersecurity Lab](https://github.com/MahalKitaNICK/Zero-Trust-Home-Network-with-pfSense-Ruckus) | VLAN Segmentation | Zero Trust Network Architecture |
-| [🔐 Enterprise Home Cybersecurity Lab](https://github.com/MahalKitaNICK/Zero-Trust-Home-Network-with-pfSense-Ruckus) | pfBlockerNG | DNS Filtering & Threat Protection |
-| [🔐 Enterprise Home Cybersecurity Lab](https://github.com/MahalKitaNICK/Zero-Trust-Home-Network-with-pfSense-Ruckus) | VPN + IDS/IPS | Secure Remote Access & Monitoring |
-| [🔐 Enterprise Home Cybersecurity Lab](https://github.com/MahalKitaNICK/Zero-Trust-Home-Network-with-pfSense-Ruckus) | Smart Home VLANs | IoT Device Isolation |
-| [🔐 Enterprise Home Cybersecurity Lab](https://github.com/MahalKitaNICK/Zero-Trust-Home-Network-with-pfSense-Ruckus) | Kids VLAN | Family-Safe Internet Controls |
-| [🔐 Enterprise Home Cybersecurity Lab](https://github.com/MahalKitaNICK/Zero-Trust-Home-Network-with-pfSense-Ruckus) | Guest Network | Isolated Visitor Access |
-| [🔐 Enterprise Home Cybersecurity Lab](https://github.com/MahalKitaNICK/Zero-Trust-Home-Network-with-pfSense-Ruckus) | Salesforce Analytics | Dashboard & Data Reporting |
-| [🔐 Enterprise Home Cybersecurity Lab](https://github.com/MahalKitaNICK/Zero-Trust-Home-Network-with-pfSense-Ruckus) | UiPath / Automation | Workflow Automation |
-| [🔐 Enterprise Home Cybersecurity Lab](https://github.com/MahalKitaNICK/Zero-Trust-Home-Network-with-pfSense-Ruckus) | AI Productivity Tools | Process Optimization |
+| 🖥️ Device / Technology | 🎯 Purpose |
+|---|---|
+| Netgate 2100 | pfSense+ Security Gateway |
+| Ruckus R650 Access Points | Enterprise Wi-Fi Coverage |
+| Synology DS923+ | NAS Storage / Backups |
+| VLAN Segmentation | Zero Trust Network Architecture |
+| pfBlockerNG | DNS Filtering & Threat Protection |
+| VPN + IDS/IPS | Secure Remote Access & Monitoring |
+| Smart Home VLANs | IoT Device Isolation |
+| Kids VLAN | Family-Safe Internet Controls |
+| Guest Network | Isolated Visitor Access |
+| Salesforce Analytics | Dashboard & Data Reporting |
+| UiPath / Automation | Workflow Automation |
+| AI Productivity Tools | Process Optimization |
+
+🚀 Featured Projects
+
+| 🔐 Project | 📖 Description |
+|---|---|
+| [Enterprise Home Cybersecurity Lab](https://github.com/MahalKitaNICK/Zero-Trust-Home-Network-with-pfSense-Ruckus) | Enterprise-style home lab featuring pfSense, VLAN segmentation, Ruckus wireless infrastructure, firewall security, IoT isolation, and Zero Trust architecture. |
+| [JN CORE TECHNOLOGIES](https://github.com/MahalKitaNICK) | Personal technology and cybersecurity initiative focused on networking, automation, smart home security, and future MSP solutions. |
+
+---
+
+## 🌊 Current Project Focus
+
+- 🔥 pfSense Firewall Engineering
+- 🌐 Multi-VLAN Architecture
+- 📡 Enterprise Wi-Fi Deployment
+- 🛡️ Zero Trust Security
+- 🤖 AI & Automation Workflows
+- ☁️ Cloud & Security Learning
 
 
 🧠 What I’m Learning
