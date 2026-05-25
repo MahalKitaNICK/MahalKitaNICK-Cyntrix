@@ -56,7 +56,7 @@ I believe technology should:
 | 🔐 Project | 📖 Description |
 |---|---|
 | [Enterprise Home Cybersecurity Lab](https://github.com/MahalKitaNICK/Zero-Trust-Home-Network-with-pfSense-Ruckus) | Enterprise-style home lab featuring pfSense, VLAN segmentation, Ruckus wireless infrastructure, firewall security, IoT isolation, and Zero Trust architecture. |
-| [JN CORE TECHNOLOGIES](https://github.com/MahalKitaNICK) | Personal technology and cybersecurity initiative focused on networking, automation, smart home security, and future MSP solutions. |
+| [JN CORE TECHNOLOGIES](https://github.com/MahalKitaNICK) | Provides innovative IT, cybersecurity, automation, and administrative support solutions designed to help businesses improve efficiency, security, and daily operations. |
 
 ---
 
